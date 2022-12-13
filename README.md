@@ -19,10 +19,10 @@ Homepage:
 ![homepage](https://drive.google.com/uc?export=view&id=1oujMWlNqyc1M94TsAyYiBMS5C00CRtV5)
 
 File Submitted:
-![homepage](https://drive.google.com/uc?export=view&id=1RFUpvKRdgkG0RN8XsIjyjqOxpfXzxo7X)
+![submit_action](https://drive.google.com/uc?export=view&id=1RFUpvKRdgkG0RN8XsIjyjqOxpfXzxo7X)
 
 Compression:
-![homepage](https://drive.google.com/uc?export=view&id=1BWJs7-FBb2ksG9lTKuNXZBW9_uhwvcs8)
+![compress_action](https://drive.google.com/uc?export=view&id=1BWJs7-FBb2ksG9lTKuNXZBW9_uhwvcs8)
 
 Decompression:
-![homepage](https://drive.google.com/uc?export=view&id=1GbTe99h9M4ro44cBnc6jPELzEJ1c8Yit)
+![decompress_action](https://drive.google.com/uc?export=view&id=1GbTe99h9M4ro44cBnc6jPELzEJ1c8Yit)
