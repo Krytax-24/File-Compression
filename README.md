@@ -1,7 +1,7 @@
 !-- Author : Krishna Rajkumar Dembla
 	Created on : 24 November 2022 -->
 
-# File-Compressor Web App
+# HuffCompress: Efficient File Compression with Huffman Coding
 
 * Uses Huffman Coding for Text Compression
 * Made with JAVASCRIPT , HTML and CSS
